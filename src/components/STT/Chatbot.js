@@ -81,7 +81,7 @@ function Chatbot() {
     <div className="AppC">
       <div className="title-chatai">
         <h1>
-          <i>ChatAI</i>
+          <i>Speech to Text Converter</i>
         </h1>
       </div>
 
